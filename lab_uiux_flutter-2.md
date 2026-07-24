@@ -382,6 +382,7 @@ Screenshot หน้าจอ Design ทั้ง 3 หน้า และบั
 ```image
 วางรูปหน้าจอ ที่นี่
 ```
+<img width="1138" height="806" alt="image" src="https://github.com/user-attachments/assets/0ccdfa65-f22a-4008-98ee-fd2c63168275" />
 
 ---
 
