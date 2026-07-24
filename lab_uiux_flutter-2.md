@@ -378,11 +378,9 @@ Prompt ที่ไม่ดี:
 **ขั้นตอนที่ 2.8: บันทึกผลการทดลอง**
 
 Screenshot หน้าจอ Design ทั้ง 3 หน้า และบันทึกข้อมูลสรุป:
+---
 
-<img width="1106" height="792" alt="image" src="https://github.com/user-attachments/assets/2e9861dc-074d-45a9-8632-ce718728d191" />
-
-
-
+---
 ### การทดลองที่ 3: แปลง Design เป็น Flutter Code
 
 #### วัตถุประสงค์
