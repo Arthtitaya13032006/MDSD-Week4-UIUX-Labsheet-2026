@@ -379,6 +379,7 @@ Prompt ที่ไม่ดี:
 
 Screenshot หน้าจอ Design ทั้ง 3 หน้า และบันทึกข้อมูลสรุป:
 ---
+<img width="1167" height="816" alt="image" src="https://github.com/user-attachments/assets/2d534e87-3a73-4830-aee3-d16e56d21839" />
 
 ---
 ### การทดลองที่ 3: แปลง Design เป็น Flutter Code
