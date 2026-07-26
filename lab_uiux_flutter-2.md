@@ -382,6 +382,19 @@ Screenshot หน้าจอ Design ทั้ง 3 หน้า และบั
 <img width="1167" height="816" alt="image" src="https://github.com/user-attachments/assets/2d534e87-3a73-4830-aee3-d16e56d21839" />
 
 ---
+**บันทึกข้อมูลสรุป**
+1. Home Screen
+Card สินค้า: วาง Horizontal Card 4 ใบ (ใช้ Auto Layout เว้นระยะ 12px) พร้อมแก้ข้อมูลสินค้า
+FAB: ปุ่ม Extended FAB "+ เพิ่มสินค้า" มุมขวาล่าง
+Nav Bar: ด้านล่างสุด (เลือกสถานะ Active ที่ "หน้าหลัก")
+
+2. Detail Screen
+Header & Banner: App Bar (เปิดไอคอนย้อนกลับ) + รูป Banner สินค้า 
+Text & Buttons: ใส่ชื่อสินค้า ราคา คำบรรยาย และปุ่ม 2 ใบ ("เพิ่มลงตะกร้าสินค้า" กับ "ย้อนกลับ")
+
+3. Profile Screen
+Profile Header: App Bar + Circle Avatar  + ชื่อ-อีเมล
+Button & Nav Bar: ปุ่ม "แก้ไขข้อมูลโปรไฟล์" + Nav Bar ด้านล่าง (เลือกสถานะ Active ที่ "โปรไฟล์")
 ### การทดลองที่ 3: แปลง Design เป็น Flutter Code
 
 #### วัตถุประสงค์
