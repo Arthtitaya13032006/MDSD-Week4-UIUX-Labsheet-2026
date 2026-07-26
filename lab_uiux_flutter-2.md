@@ -484,6 +484,7 @@ class MyApp extends StatelessWidget {
 **ขั้นตอนที่ 3.3: วิเคราะห์ Design เป็น Widget Tree**
 
 ก่อนเขียน code ให้วาด Widget Tree บนกระดาษหรือ Whiteboard:
+<img width="677" height="772" alt="image" src="https://github.com/user-attachments/assets/b8fbd4c3-30a7-4b28-b1be-7be73778838b" />
 
 ```
 สำหรับ Green Market Home Screen:
